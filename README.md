@@ -1,6 +1,9 @@
 # electron-webpack-react-barebones
 
-> A bare minimum project structure to get started developing with [`electron-webpack`](https://github.com/electron-userland/electron-webpack) and [React](https://github.com/facebook/react/).
+> A bare minimum project structure to get started developing with [`electron-webpack`](https://github.com/electron-userland/electron-webpack) and [`react`](https://github.com/facebook/react/).
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),
+and combined with [electron-webpack-quick-start](https://github.com/electron-userland/electron-webpack-quick-start).
 
 Thanks to the power of `electron-webpack` this template comes packed with...
 
@@ -27,11 +30,6 @@ rm -rf .git
 # install dependencies
 yarn
 ```
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-And combined with [electron-webpack-quick-start](https://github.com/electron-userland/electron-webpack-quick-start).
 
 ### Development Scripts
 
